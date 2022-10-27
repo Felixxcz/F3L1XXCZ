@@ -20,6 +20,8 @@
  
   <a href="https://instagram.com/felixxcz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
+  <a href="felixlira2021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
   ![Snake animation](https://github.com/F3L1XXCZ/F3L1XXCZ/blob/output/github-contribution-grid-snake.svg)
 
 </div>
